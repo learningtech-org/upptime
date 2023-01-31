@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/learningtech.org.ico",
     "slug": "learningtech-org",
     "status": "up",
-    "uptime": "0.83%",
-    "uptimeDay": "0.83%",
-    "uptimeWeek": "0.83%",
-    "uptimeMonth": "0.83%",
-    "uptimeYear": "0.83%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 174,
     "timeDay": 174,
     "timeWeek": 174,
     "timeMonth": 174,
     "timeYear": 174,
-    "dailyMinutesDown": {
-      "2023-01-31": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "wp.learningtech.org",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wp.learningtech.org.ico",
     "slug": "wp-learningtech-org",
     "status": "up",
-    "uptime": "0.60%",
-    "uptimeDay": "0.60%",
-    "uptimeWeek": "0.60%",
-    "uptimeMonth": "0.60%",
-    "uptimeYear": "0.60%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 182,
     "timeDay": 182,
     "timeWeek": 182,
     "timeMonth": 182,
     "timeYear": 182,
-    "dailyMinutesDown": {
-      "2023-01-31": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
