@@ -3,12 +3,14 @@ owner: learningtech-org # Your GitHub organization or username, where this repos
 repo: upptime # The name of this repository
 
 sites:
-#  - name: learningtech.org
-#    url: https://learningtech.org
-#  - name: wp.learningtech.org
-#    url: wp.learningtech.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: learningtech.org
+    url: https://learningtech.org
+  - name: wp.learningtech.org
+    url: https://wp.learningtech.org
+  - name: Google
+    url: https://google.com
+#  - name: Hacker News
+#    url: https://news.ycombinator.com
 #  - name: Test Broken Site
 #    url: https://thissitedoesnotexist.koj.co
 
