@@ -5,20 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/learningtech.org.ico",
     "slug": "learningtech-org",
     "status": "down",
-    "uptime": "17.21%",
-    "uptimeDay": "17.21%",
-    "uptimeWeek": "17.21%",
-    "uptimeMonth": "17.21%",
-    "uptimeYear": "17.21%",
-    "time": 147,
-    "timeDay": 147,
-    "timeWeek": 147,
-    "timeMonth": 147,
-    "timeYear": 147,
-    "dailyMinutesDown": {
-      "2023-01-31": 4,
-      "2023-01-30": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 160,
+    "timeDay": 160,
+    "timeWeek": 160,
+    "timeMonth": 160,
+    "timeYear": 160,
+    "dailyMinutesDown": {}
   },
   {
     "name": "wp.learningtech.org",
@@ -26,19 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wp-learningtech-org",
     "status": "down",
-    "uptime": "17.38%",
-    "uptimeDay": "17.38%",
-    "uptimeWeek": "17.38%",
-    "uptimeMonth": "17.38%",
-    "uptimeYear": "17.38%",
-    "time": 182,
-    "timeDay": 182,
-    "timeWeek": 182,
-    "timeMonth": 182,
-    "timeYear": 182,
-    "dailyMinutesDown": {
-      "2023-01-31": 4,
-      "2023-01-30": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 162,
+    "timeDay": 162,
+    "timeWeek": 162,
+    "timeMonth": 162,
+    "timeYear": 162,
+    "dailyMinutesDown": {}
   }
 ]
