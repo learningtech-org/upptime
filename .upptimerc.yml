@@ -9,6 +9,21 @@ sites:
   - name: wp.learningtech.org
     url: https://wp.learningtech.org
 #    maxResponseTime: 10000
+  - name: blogs.learningtech.org
+    url: https://blogs.learningtech.org
+#    maxResponseTime: 10000
+  - name: legacy.learningtech.org
+    url: https://legacy.learningtech.org
+#    maxResponseTime: 10000
+  - name: lhr.learningtech.org
+    url: https://lhr.learningtech.org
+#    maxResponseTime: 10000
+  - name: logo.learningtech.org
+    url: https://logo.learningtech.org
+#    maxResponseTime: 10000
+  - name: students.learningtech.org
+    url: https://students.learningtech.org
+#    maxResponseTime: 10000
   - name: Google
     url: https://google.com
 #  - name: Hacker News
