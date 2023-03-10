@@ -6,6 +6,9 @@ sites:
   - name: learningtech.org
     url: https://learningtech.org
 #    maxResponseTime: 10000
+  - name: wptest.learningtech.org
+    url: https://wptest.learningtech.org
+#    maxResponseTime: 10000
   - name: wp.learningtech.org
     url: https://wp.learningtech.org
 #    maxResponseTime: 10000
