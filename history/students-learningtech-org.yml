@@ -1,7 +1,7 @@
 url: https://students.learningtech.org
-status: up
-code: 200
-responseTime: 93
-lastUpdated: 2023-04-17T23:08:04.568Z
+status: down
+code: 429
+responseTime: 268
+lastUpdated: 2023-04-18T20:52:47.939Z
 startTime: Wed Mar 08 2023 19:22:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
